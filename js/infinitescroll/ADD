@@ -1,0 +1,27 @@
+http://imakewebthings.com/waypoints/shortcuts/infinite-scroll/
+
+<script src="/js/infinitescroll/jquery-1.11.1.min.js"></script>
+<script src="/js/infinitescroll/jquery.waypoints.min.js"></script>
+<script src="/js/infinitescroll/sticky.min.js"></script>
+<script src="/js/infinitescroll/infinite.min.js"></script>
+<script src="/js/infinitescroll/inview.min.js"></script>
+<script src="/js/infinitescroll/scripts.js"></script>
+
+var infinite = new Waypoint.Infinite({
+  element: $('.infinite-container')[0]
+})
+
+
+<div class="infinite-container waypoint">
+  <div class="infinite-item">1</div>
+  <div class="infinite-item">2</div>
+  <div class="infinite-item">3</div>
+  <div class="infinite-item">4</div>
+  <div class="infinite-item">5</div>
+  <div class="infinite-item">6</div>
+  <div class="infinite-item">7</div>
+  <div class="infinite-item">8</div>
+  <div class="infinite-item">9</div>
+  <div class="infinite-item">10</div>
+</div>
+<a class="infinite-more-link" href="./page2.html"></a>
