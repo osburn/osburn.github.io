@@ -13,24 +13,9 @@ document.write(
 			"</div>" +
 			"<div class='navbar-collapse collapse'>" +
                                 "<ul class='nav navbar-nav'>" +
-                                        "<li class='dropdown'>" +
-                                                "<a href='#' class='dropdown-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Work<span class='caret'></span></a>" +
-                                                "<ul class='dropdown-menu'>" +
-                                                "<li><a href='https://www.osburn.com/resume.html'>My Resume</a></li>" +
-                                                "</ul>"  +
-                                        "</li>"  +
                                 "</ul>" +
                                 "<ul class='nav navbar-nav'>" +
                                         "<li class='dropdown'>" +
-                                                "<a href='#' class='dropdown-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Photos<span class='caret'></span></a>" +
-                                                "<ul class='dropdown-menu'>" +
-                                                "<li><a href='https://www.osburn.com/stream'>My Photostream</a></li>" +
-                                                "<li><a href='https://www.osburn.com/stream/rss.php'>My Photostream RSS feed</a></li>" +
-                                                "<li role='separator' class='divider'></li>" +
-                                                "<li><a href='https://www.osburn.com/photos'>Public Photos</a></li>" +
-                                                "<li role='separator' class='divider'></li>" +
-                                                "<li><a href='https://www.osburn.com/private'>Private photos (Auth Required)</a></li>" +
-                                                "</ul>"  +
                                         "</li>"  +
                                 "</ul>" +
 
